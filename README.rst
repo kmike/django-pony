@@ -9,11 +9,12 @@ Installation
 ============
 
 1. Add "pony" to your pytonpath.
-2. Add this line of code somewhere in your template(s)::
+2. Add "pony" to your INSTALLED_APPS.
+3. Add this line of code somewhere in your template(s)::
 
     {% include "pony/pony.html" %}
 
-3. That's it! Easy what?
+4. That's it! Easy what?
 
 Credits and legal notice
 ========================
